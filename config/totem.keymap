@@ -73,7 +73,7 @@
                                       &mt LALT DEL     &kp LSHIFT  &kp SPACE  &kp RET   &lt 2 BSPC    &kp TAB
             >;
         };
-
+ 
         Nav {
             label = "Nav";
             bindings = <
