@@ -54,7 +54,7 @@
 //                                     ┃    LALT   ┃   LSHIFT  ┃    SPC    ┃   ┃   ENTER   ┃   BSPC    ┃    TAB    ┃
                                           &kp LALT   &kp LSHIFT  &kp SPACE        &kp RET     &kp BSPC     &kp TAB
 //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
-            
+            >;
         };
 
         Nav {
@@ -73,7 +73,7 @@
 //                                     ┃           ┃    TAB    ┃    SPC    ┃   ┃    DEL    ┃     0     ┃           ┃
                                           &trans      &kp TAB      &kp SPC       &kp DEL   &kp NUMBER_0   &trans
 //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
-
+            >;
         };
 
         Sym {
