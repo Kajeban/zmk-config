@@ -84,7 +84,7 @@
                  &kp EXCL    &kp AT     &kp HASH     &kp DOLLAR   &kp PERCENT   &kp CARET    &kp AMPERSAND   &trans  &kp SQT      &kp DQT
 //             ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
 //             ┃     Ä     ┃           ┃    SZ     ┃           ┃           ┃   ┃   MUTE    ┃   YEN     ┃   EURO    ┃  POUND    ┃     Ö     ┃
-                   &trans     &trans      &trans     &trans      &trans          &kp C_MUTE   &trans      &kp EURO    &kp POUND   &trans                        
+                   &trans     &trans      &trans     &trans      &trans          &kp C_MUTE   &trans      &trans       &trans      &trans                        
 // ┏━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┓
 // ┃           ┃  EMAIL1   ┃  EMAIL2   ┃           ┃           ┃           ┃   ┃   VOL-    ┃   VOL+    ┃   LAST    ┃   NEXT    ┃     \     ┃           ┃
       &trans        &trans      &trans      &trans      &trans      &trans    &kp C_VOL_DN  &kp C_VOL_UP &kp C_PREV  &kp NEXT    &trans      &trans 
