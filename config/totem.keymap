@@ -98,7 +98,7 @@
 
         Adj {
             label = "Adj";
-            binding = <
+            bindings = <
 //             ┏━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┓   ┏━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┓
 //             ┃   RESET   ┃ BT CLEAR  ┃  OUT TOG  ┃           ┃           ┃   ┃           ┃    F7     ┃    F8     ┃    F9     ┃    F12    ┃
                 &sys_reset   &bt BT_CLR    &trans       &trans      &trans      &trans          &kp F7    &kp F8     &kp F9       &kp F12
