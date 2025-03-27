@@ -68,7 +68,7 @@
                   &trans      &kp LEFT    &kp DOWN     &kp RIGHT   &kp LBKT       &kp RBKT   &kp NUMBER_4 &kp NUMBER_5 &kp NUMBER_6 &kp MINUS
 // ┏━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┓
 // ┃           ┃           ┃   P UP    ┃  C LOCK   ┃  P DOWN   ┃     (     ┃   ┃     )     ┃     1     ┃     2     ┃     3     ┃     *     ┃           ┃
-     &trans       &trans      &trans      &kp CAPS     &trans   &kp LPAR         &kp RPAR  &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3 $kp KP_MULTIPLY
+     &trans       &trans      &trans      &kp CAPS     &trans   &kp LPAR         &kp RPAR  &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3 &kp KP_MULTIPLY  &trans
 // ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 //                                     ┃           ┃    TAB    ┃    SPC    ┃   ┃    DEL    ┃     0     ┃           ┃
                                           &trans      &kp TAB      &kp SPC       &kp DEL   &kp NUMBER_0   &trans
