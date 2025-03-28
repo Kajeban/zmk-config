@@ -33,12 +33,6 @@
 
     combos {
         compatible = "zmk,combos";
-        
-        combo_win {
-            timeout-ms = <50>;
-            key-positions = <3 4>;
-            bindings = <&kp LGUI>;
-        };
     };
 
     keymap {
@@ -55,7 +49,7 @@
                     &kp A       &kp R       &kp S       &kp T       &kp D           &kp H       &kp N       &kp E       &kp I       &kp O
 // ┏━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┓
 // ┃           ┃     Z     ┃     X     ┃     C     ┃     V     ┃     B     ┃   ┃     K     ┃     M     ┃     ,     ┃     .     ┃     /     ┃           ┃
-    &kp LSHIFT     &kp Z       &kp X       &kp C       &kp V       &kp B           &kp K       &kp M     &kp COMMA    &kp DOT    &kp SLASH    &mt &tog NAV ESC
+    &kp LSHIFT     &kp Z       &kp X       &kp C       &kp V       &kp B           &kp K       &kp M     &kp COMMA    &kp DOT    &kp SLASH    &mt NAV &kp ESC
 // ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 //                                     ┃    LCTRL  ┃   LALT    ┃    SPC    ┃   ┃   ENTER   ┃   BSPC    ┃    TAB    ┃
                                           &kp LCTRL   &kp LALT   &kp SPACE        &kp RET     &kp BSPC     &kp TAB
