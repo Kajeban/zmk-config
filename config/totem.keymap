@@ -50,9 +50,9 @@
                     &kp A       &kp R       &kp S       &kp T       &kp D           &kp H       &kp N       &kp E       &kp I       &kp O
 // ┏━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┓
 // ┃           ┃     Z     ┃     X     ┃     C     ┃     V     ┃     B     ┃   ┃     K     ┃     M     ┃     ,     ┃     .     ┃     /     ┃           ┃
-    &kp LSHIFT     &kp Z       &kp X       &kp C       &kp V       &kp B           &kp K       &kp M     &kp COMMA    &kp DOT    &kp SLASH    &mt NAV ESC
+    &kp LSHIFT     &kp Z       &kp X       &kp C       &kp V       &kp B           &kp K       &kp M     &kp COMMA    &kp DOT    &kp SLASH    &mt ESC NAV
 // ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
-//                                     ┃    LCTRL  ┃   LALT    ┃    SPC    ┃   ┃   ENTER   ┃   BSPC    ┃    TAB    ┃
+//                                     ┃    LCTRL  ┃   LALT    ┃    SPC    ┃   ┃   ENTER   ┃   BSPC    ┃    TAB    ┃    
                                           &kp LCTRL   &kp LALT   &kp SPACE        &kp RET     &kp BSPC     &kp TAB
 //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
             >;
